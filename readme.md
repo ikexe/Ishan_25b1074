@@ -14,3 +14,5 @@ Before you get started with the assignment, ceate a GitHub repository. Clone it 
 git clone https://github.com/hariharateja/web_scraping-2k25.git
 cd web_scraping 2k25
 ```
+
+Assignment for this week has been added. Find it [here](./Week2-Assignment).
