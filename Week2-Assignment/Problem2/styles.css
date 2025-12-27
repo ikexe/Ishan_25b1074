@@ -1,0 +1,45 @@
+*{
+    margin : 0;
+}
+main{
+    background-color: #000000;
+    color : white;
+    font-family: Verdana;
+}
+table {
+            width : 90%;
+            border-collapse: collapse;
+            
+            margin: auto;
+        }
+td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: center;
+        }
+th {
+            background-color: hsl(44, 74%, 51%);
+            border : 1px solid black;
+            color : black;
+            padding : 8px;
+        }
+header{
+    padding : 16px;
+    text-align: center;
+    font-size: 50px;
+    background-color: rgb(0, 0, 0);
+    color: white;
+    font-family: Verdana;
+}
+#logo {
+    display: inline;
+    vertical-align: middle;
+}
+
+footer{
+    padding : 10px;
+    text-align: center;
+    background-color: rgb(0, 0, 0);
+    color: hsl(44, 74%, 51%);
+    font-family: Verdana;
+}
