@@ -38,3 +38,8 @@ Python is a language in which you can do anything and everything. You just have 
   Also, as you can see, no GPT has been mentioned anywhere. So please try and avoid it as much as possible :) , but u can use gpt for learning 
 
 Also, if you are still hungry for questions/want to learn more, you can freely contact me.
+
+## Week 3
+
+
+This week, our focus will be on learning basics of Web-Scrapping : Requests and BeautifulSoup. We will also explore JavaScript, knowledge of which will help us in scrapping dynamically rendered web-pages. Please go through [Week-3 README](./Week3-Resources/README.md).
